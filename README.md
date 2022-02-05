@@ -1,2 +1,2 @@
-# ship-manual
-Ejercicio 1 Nave espacial
+# Ship-Manual
+Ejercicio 1 hecho de la Nave espacial
